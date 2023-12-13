@@ -1,1 +1,1 @@
-# Home-work-for-Supervised-Learning
+# Homework-for-Supervised-Learning
